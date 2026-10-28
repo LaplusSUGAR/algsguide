@@ -1,0 +1,14 @@
+[Unit]
+Description=DROPZONE community server
+After=network.target
+[Service]
+Type=simple
+# Create this unprivileged user and give it ownership of /opt/dropzone/data.
+User=dropzone
+WorkingDirectory=/opt/dropzone
+ExecStart=/usr/bin/node --env-file=/opt/dropzone/.env /opt/dropzone/server/index.mjs
+Restart=on-failure
+RestartSec=5
+NoNewPrivileges=true
+[Install]
+WantedBy=multi-user.target

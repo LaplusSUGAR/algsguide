@@ -1,0 +1,4 @@
+# Replace with the actual purchased domain. Node runs on localhost:3000.
+algs.example.com {
+    reverse_proxy 127.0.0.1:3000
+}

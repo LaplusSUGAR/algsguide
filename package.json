@@ -1,0 +1,20 @@
+{
+ "name": "dropzone-connected",
+ "version": "3.0.0",
+ "private": true,
+ "type": "module",
+ "engines": {
+  "node": ">=24"
+ },
+ "scripts": {
+  "setup": "node setup.mjs",
+  "start": "node --env-file-if-exists=.env server/index.mjs",
+  "test": "node --test tests/*.test.mjs",
+  "build": "npm --prefix source install && npm --prefix source run build",
+  "collect": "node scripts/collect.mjs",
+  "build:pages": "npm --prefix source install && node source/build.mjs --pages"
+ },
+ "dependencies": {
+  "web-push": "3.6.7"
+ }
+}
