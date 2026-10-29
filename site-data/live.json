@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-10-29T06:15:02.811Z",
+ "generatedAt": "2026-10-29T13:09:54.732Z",
  "regions": {
   "APAC North": {
    "kind": "playoffs",
@@ -870,8 +870,8 @@
    ],
    "slots": 9,
    "source": "https://algs.ea.com/en/year-6/split-2-pro-league-apac-north/standings",
-   "asOf": "2026-10-29T06:15:03.225Z",
-   "checked": "2026-10-29T06:15:03.225Z",
+   "asOf": "2026-10-29T13:09:55.287Z",
+   "checked": "2026-10-29T13:09:55.287Z",
    "eventId": "01KTHV7NFZ7BX8VND276ZS2CSA",
    "phaseId": "01KTHV7NG27AWPPRVE0TN52CA1",
    "apiSource": "https://prod-api.algstools.com/v1/stats/phases/01KTHV7NG27AWPPRVE0TN52CA1/standings",
@@ -2359,8 +2359,8 @@
    ],
    "slots": 14,
    "source": "https://algs.ea.com/en/year-6/split-2-pro-league-americas/standings",
-   "asOf": "2026-10-29T06:15:03.397Z",
-   "checked": "2026-10-29T06:15:03.397Z",
+   "asOf": "2026-10-29T13:09:55.457Z",
+   "checked": "2026-10-29T13:09:55.457Z",
    "eventId": "01KPPFPQYTBGN1PYMGQ3CDNZHM",
    "phaseId": "01KTHSBC2EQVRGK0NY2ED0KC50",
    "apiSource": "https://prod-api.algstools.com/v1/stats/phases/01KTHSBC2EQVRGK0NY2ED0KC50/standings",
@@ -3251,8 +3251,8 @@
    ],
    "slots": 6,
    "source": "https://algs.ea.com/en/year-6/split-2-pro-league-emea/standings",
-   "asOf": "2026-10-29T06:15:03.497Z",
-   "checked": "2026-10-29T06:15:03.497Z",
+   "asOf": "2026-10-29T13:09:55.546Z",
+   "checked": "2026-10-29T13:09:55.546Z",
    "eventId": "01KTHV6YD6XFMQ1W7CZXBN9H0P",
    "phaseId": "01KTHV6YDGK0Q6N9PJ7SX1MQSK",
    "apiSource": "https://prod-api.algstools.com/v1/stats/phases/01KTHV6YDGK0Q6N9PJ7SX1MQSK/standings",
@@ -4158,8 +4158,8 @@
    ],
    "slots": 7,
    "source": "https://algs.ea.com/en/year-6/split-2-pro-league-apac-south/standings",
-   "asOf": "2026-10-29T06:15:03.579Z",
-   "checked": "2026-10-29T06:15:03.579Z",
+   "asOf": "2026-10-29T13:09:55.652Z",
+   "checked": "2026-10-29T13:09:55.652Z",
    "eventId": "01KTHV7V10NX9HB8S1WM7QT6Q9",
    "phaseId": "01KTHV7V12PY3NQPZDG1PEYNM7",
    "apiSource": "https://prod-api.algstools.com/v1/stats/phases/01KTHV7V12PY3NQPZDG1PEYNM7/standings",
@@ -4168,14 +4168,19 @@
    "ruleNote": "슬롯은 공식 phase qualificationThreshold입니다. 해당 단계의 통과 기준이며 시즌 전체 진출 경로와 다를 수 있습니다."
   }
  },
- "regionErrors": {},
+ "regionErrors": {
+  "세계대회": {
+   "message": "해당 공식 대회의 순위가 아직 게시되지 않았습니다.",
+   "at": "2026-10-29T13:09:54.732Z"
+  }
+ },
  "championship": {
   "kind": "championship",
   "title": "Year 6 챔피언십 포인트",
   "source": "https://algs.ea.com/en/championship-points",
   "apiSource": "https://prod-api.algstools.com/v1/seasons/01KEAJYDXP9CBK44PPW7XWDNB3/standings/teams?minAmountOfMatches=12&eventIds=01KTHV6YD6XFMQ1W7CZXBN9H0P%2C01KTHV7NFZ7BX8VND276ZS2CSA%2C01KTHV7V10NX9HB8S1WM7QT6Q9%2C01KPPFPQYTBGN1PYMGQ3CDNZHM",
-  "asOf": "2026-10-29T06:15:03.677Z",
-  "checked": "2026-10-29T06:15:03.677Z",
+  "asOf": "2026-10-29T13:09:55.744Z",
+  "checked": "2026-10-29T13:09:55.744Z",
   "slots": 32,
   "teams": [
    {
