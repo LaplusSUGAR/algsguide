@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-10-30T02:33:42.136Z",
+ "generatedAt": "2026-10-30T08:57:09.677Z",
  "regions": {
   "APAC North": {
    "kind": "playoffs",
@@ -870,8 +870,8 @@
    ],
    "slots": 9,
    "source": "https://algs.ea.com/en/year-6/split-2-pro-league-apac-north/standings",
-   "asOf": "2026-10-30T02:33:42.599Z",
-   "checked": "2026-10-30T02:33:42.599Z",
+   "asOf": "2026-10-30T08:57:09.973Z",
+   "checked": "2026-10-30T08:57:09.973Z",
    "eventId": "01KTHV7NFZ7BX8VND276ZS2CSA",
    "phaseId": "01KTHV7NG27AWPPRVE0TN52CA1",
    "apiSource": "https://prod-api.algstools.com/v1/stats/phases/01KTHV7NG27AWPPRVE0TN52CA1/standings",
@@ -885,10 +885,178 @@
    "title": "Year 6 · Split 2 Playoffs · 세계대회 · Group Stage",
    "teams": [
     {
+     "id": "01KHPREWNWEZSQCQDGZVAF5CCW",
+     "name": "Team Liquid",
+     "points": 96,
+     "officialRank": 1,
+     "korean": false,
+     "region": "americas",
+     "kills": 53,
+     "live": false,
+     "qualified": false,
+     "players": [
+      {
+       "id": "01J65B7YX133EJCY2WKCWG472F",
+       "name": "Zer0",
+       "country": "US"
+      },
+      {
+       "id": "01J65B7ZA31T3A5Z36XKRMFVY1",
+       "name": "Sikezz",
+       "country": "US"
+      },
+      {
+       "id": "01J7TX2242N0MYENGTV5WAN6XT",
+       "name": "PanicApex",
+       "country": "US"
+      }
+     ]
+    },
+    {
+     "id": "01KHPREWVFQ8KJBCB3AY6Q42T2",
+     "name": "ShopifyRebellion",
+     "points": 96,
+     "officialRank": 2,
+     "korean": false,
+     "region": "americas",
+     "kills": 45,
+     "live": false,
+     "qualified": false,
+     "players": [
+      {
+       "id": "01J65B63TYVWBB4ZVR2S5QKBT3",
+       "name": "zap",
+       "country": "US"
+      },
+      {
+       "id": "01J65B65VG17SKBAFP2A6HA0W9",
+       "name": "Xynew",
+       "country": "US"
+      },
+      {
+       "id": "01J65B6XT7H66CYSQYD66JC1W9",
+       "name": "sauceror",
+       "country": "US"
+      }
+     ]
+    },
+    {
+     "id": "01KHPREY4M77GTWNWD0VHCK60M",
+     "name": "UNLIMIT",
+     "points": 94,
+     "officialRank": 3,
+     "korean": false,
+     "region": "asia-pacific-north",
+     "kills": 54,
+     "live": false,
+     "qualified": false,
+     "players": [
+      {
+       "id": "01JK2ZP1B73ZVCX0TF8KTBAKNP",
+       "name": "Xtsuvi",
+       "country": "JP"
+      },
+      {
+       "id": "01JKR3XQ5DWW41V69P9RG745QS",
+       "name": "Yulariman",
+       "country": "JP"
+      },
+      {
+       "id": "01JNGB1ZEED1A0H6ZDX88T4KJE",
+       "name": "Peace",
+       "country": "JP"
+      }
+     ]
+    },
+    {
+     "id": "01KHPREW7EJXVPJCD4RCPQSZSE",
+     "name": "Aurora",
+     "points": 91,
+     "officialRank": 4,
+     "korean": false,
+     "region": "europe-middle-east-and-africa",
+     "kills": 45,
+     "live": false,
+     "qualified": false,
+     "players": [
+      {
+       "id": "01J65B69XR80RHPR87TY6C9BN4",
+       "name": "Effect",
+       "country": "RS"
+      },
+      {
+       "id": "01J65B8KC3CXYHNSZZ0SV7CGNF",
+       "name": "ojrein",
+       "country": "RS"
+      },
+      {
+       "id": "01J80KXZEYDJEKHTNA5TEAJX31",
+       "name": "Kazakh",
+       "country": "KZ"
+      }
+     ]
+    },
+    {
+     "id": "01KME2AGVDK6XFG76BXCJ3QEPW",
+     "name": "WhiteGrimReaper",
+     "points": 82,
+     "officialRank": 5,
+     "korean": false,
+     "region": "asia-pacific-north",
+     "kills": 42,
+     "live": false,
+     "qualified": false,
+     "players": [
+      {
+       "id": "01J65B6ESJ7EZ40K6NB2NBM2YY",
+       "name": "Lykq8don",
+       "country": "JP"
+      },
+      {
+       "id": "01JKZVR7101PWDP9388YTZR0GA",
+       "name": "juxo",
+       "country": "JP"
+      },
+      {
+       "id": "01JMEX2436Z3Q2J860P58Z07H5",
+       "name": "AQBAJAPAN",
+       "country": "JP"
+      }
+     ]
+    },
+    {
+     "id": "01KHPREXGF2G62Y6H5QG87ZYEE",
+     "name": "Team Falcons",
+     "points": 79,
+     "officialRank": 6,
+     "korean": false,
+     "region": "americas",
+     "kills": 54,
+     "live": false,
+     "qualified": false,
+     "players": [
+      {
+       "id": "01J65B6K9EJ7BN6NQRKRQ3FZKG",
+       "name": "Gild",
+       "country": "US"
+      },
+      {
+       "id": "01J65B6KP9DJ9VQH6E4EDBVXWR",
+       "name": "Wxltzy",
+       "country": "US"
+      },
+      {
+       "id": "01J65B7NMKHGG0EFAX7JGG2HZY",
+       "name": "ImperialHal",
+       "country": "US"
+      }
+     ]
+    },
+    {
      "id": "01KHPREX5NAJ267Q5TT8TPA6QF",
      "name": "DINOS",
      "points": 74,
-     "officialRank": 1,
+     "officialRank": 7,
      "korean": false,
      "region": "americas",
      "kills": 39,
@@ -913,10 +1081,150 @@
      ]
     },
     {
+     "id": "01KHPRETW5SA96GN6HXY5N6V2F",
+     "name": "NinjasinPyjamas",
+     "points": 73,
+     "officialRank": 8,
+     "korean": false,
+     "region": "americas",
+     "kills": 42,
+     "live": false,
+     "qualified": false,
+     "players": [
+      {
+       "id": "01J65B733H606FKY6AEMAPAJ7P",
+       "name": "Vein",
+       "country": "US"
+      },
+      {
+       "id": "01J69SWXKBEHB0M4PZMQRE3P7E",
+       "name": "Kurev",
+       "country": "AR"
+      },
+      {
+       "id": "01JK57CFP22QV3BSK1EH5V5PD0",
+       "name": "cole",
+       "country": "US"
+      }
+     ]
+    },
+    {
+     "id": "01KHPREX30SHMDHM5YQ3ENN0SQ",
+     "name": "REJECT",
+     "points": 72,
+     "officialRank": 9,
+     "korean": false,
+     "region": "asia-pacific-north",
+     "kills": 43,
+     "live": false,
+     "qualified": false,
+     "players": [
+      {
+       "id": "01J65B673069XJF3TC9A699HK2",
+       "name": "4rufa",
+       "country": "JP"
+      },
+      {
+       "id": "01J7TX24A1TY5QA73WGJ7DGE0X",
+       "name": "Euriece",
+       "country": "JP"
+      },
+      {
+       "id": "01JN3ZPWPPQVYEMAXDW8YF4ZZC",
+       "name": "Axis",
+       "country": "JP"
+      }
+     ]
+    },
+    {
+     "id": "01KHPREVCG4KW85GDKW4B811Y0",
+     "name": "ForFun Esports",
+     "points": 71,
+     "officialRank": 10,
+     "korean": false,
+     "region": "europe-middle-east-and-africa",
+     "kills": 25,
+     "live": false,
+     "qualified": false,
+     "players": [
+      {
+       "id": "01J65B885YW8SX91E18029Y67J",
+       "name": "Tylerfps",
+       "country": "GB"
+      },
+      {
+       "id": "01J69ST7W30EKTM4S5M2MYVVP0",
+       "name": "kaishihaa",
+       "country": "GB"
+      },
+      {
+       "id": "01J69STS6B1X7SFHY78DWKZ33F",
+       "name": "RemixPowers",
+       "country": "GB"
+      }
+     ]
+    },
+    {
+     "id": "01KHPREYD403WZ7N0JWCAZ73TC",
+     "name": "Gen.G Citadel",
+     "points": 70,
+     "officialRank": 11,
+     "korean": false,
+     "region": "asia-pacific-south",
+     "kills": 40,
+     "live": false,
+     "qualified": false,
+     "players": [
+      {
+       "id": "01J65B7E0BP0J3AMAXD0SVPJKH",
+       "name": "Z1CKKY",
+       "country": "TH"
+      },
+      {
+       "id": "01J65B7F6PE7V0T40S65T5ZPV4",
+       "name": "DEXTER",
+       "country": "TH"
+      },
+      {
+       "id": "01JKGNYX0H7XXMAQR5SG72J0BD",
+       "name": "ASIAZXD",
+       "country": "TH"
+      }
+     ]
+    },
+    {
+     "id": "01KHPREXADNBT3YBAPQC8K39C8",
+     "name": "NRG",
+     "points": 67,
+     "officialRank": 12,
+     "korean": false,
+     "region": "americas",
+     "kills": 37,
+     "live": false,
+     "qualified": false,
+     "players": [
+      {
+       "id": "01J65B79J9D3V006MVBGN77X0Y",
+       "name": "Sweet",
+       "country": "US"
+      },
+      {
+       "id": "01J65B7AC47B2MFX5T9Y2A32ZB",
+       "name": "slayr",
+       "country": "US"
+      },
+      {
+       "id": "01JMF5HB9TNN1Q3SKBNQMVB8X8",
+       "name": "sacred",
+       "country": "US"
+      }
+     ]
+    },
+    {
      "id": "01KHPREV8NHAB1CHG0W7MEFS6P",
      "name": "Alliance",
      "points": 66,
-     "officialRank": 2,
+     "officialRank": 13,
      "korean": false,
      "region": "europe-middle-east-and-africa",
      "kills": 41,
@@ -941,86 +1249,198 @@
      ]
     },
     {
-     "id": "01KHPREW7EJXVPJCD4RCPQSZSE",
-     "name": "Aurora",
-     "points": 63,
-     "officialRank": 3,
+     "id": "01KHPREWJ40HYNJSHV1D5GWDGY",
+     "name": "World Wide",
+     "points": 66,
+     "officialRank": 14,
      "korean": false,
-     "region": "europe-middle-east-and-africa",
-     "kills": 32,
-     "live": false,
-     "qualified": false,
-     "players": [
-      {
-       "id": "01J65B69XR80RHPR87TY6C9BN4",
-       "name": "Effect",
-       "country": "RS"
-      },
-      {
-       "id": "01J65B8KC3CXYHNSZZ0SV7CGNF",
-       "name": "ojrein",
-       "country": "RS"
-      },
-      {
-       "id": "01J80KXZEYDJEKHTNA5TEAJX31",
-       "name": "Kazakh",
-       "country": "KZ"
-      }
-     ]
-    },
-    {
-     "id": "01KHPREY4M77GTWNWD0VHCK60M",
-     "name": "UNLIMIT",
-     "points": 58,
-     "officialRank": 4,
-     "korean": false,
-     "region": "asia-pacific-north",
+     "region": "americas",
      "kills": 33,
      "live": false,
      "qualified": false,
      "players": [
       {
-       "id": "01JK2ZP1B73ZVCX0TF8KTBAKNP",
-       "name": "Xtsuvi",
-       "country": "JP"
+       "id": "01J65B6CREZS38J19M1WCEE9VJ",
+       "name": "Vaxlon",
+       "country": "US"
       },
       {
-       "id": "01JKR3XQ5DWW41V69P9RG745QS",
-       "name": "Yulariman",
-       "country": "JP"
+       "id": "01J65B6JFEH898KTRFF9TCZNK3",
+       "name": "Emtee ",
+       "country": "US"
       },
       {
-       "id": "01JNGB1ZEED1A0H6ZDX88T4KJE",
-       "name": "Peace",
-       "country": "JP"
+       "id": "01JQ4Z59EYYN1B26S47513RSZZ",
+       "name": "Nait",
+       "country": "PL"
       }
      ]
     },
     {
-     "id": "01KHPREVCG4KW85GDKW4B811Y0",
-     "name": "ForFun Esports",
-     "points": 55,
-     "officialRank": 5,
+     "id": "01KHPREX79D112W371YQ819V49",
+     "name": "AG GLOBAL",
+     "points": 61,
+     "officialRank": 15,
      "korean": false,
-     "region": "europe-middle-east-and-africa",
-     "kills": 19,
+     "region": "americas",
+     "kills": 36,
      "live": false,
      "qualified": false,
      "players": [
       {
-       "id": "01J65B885YW8SX91E18029Y67J",
-       "name": "Tylerfps",
+       "id": "01J65B6MWY4T8KBS3HHMSAV391",
+       "name": "YanYa",
+       "country": "MX"
+      },
+      {
+       "id": "01J65B6NAJSEJ54KGBFTXZYBXY",
+       "name": "Neazul",
+       "country": "MX"
+      },
+      {
+       "id": "01J65B6NQBD3PH8E9NSFRFA4S4",
+       "name": "jaguares1",
+       "country": "MX"
+      }
+     ]
+    },
+    {
+     "id": "01KHPREWCZGM90NRYMFFN8RWQR",
+     "name": "Relove DCG",
+     "points": 61,
+     "officialRank": 16,
+     "korean": false,
+     "region": "asia-pacific-south",
+     "kills": 34,
+     "live": false,
+     "qualified": false,
+     "players": [
+      {
+       "id": "01JK6GPX1GZF8Z95THET5XTCX6",
+       "name": "Lu1SaN",
+       "country": "TW"
+      },
+      {
+       "id": "01JKJCT1AQ8W9R6FXXDHXPYRVY",
+       "name": "Roieee",
+       "country": "TW"
+      },
+      {
+       "id": "01JKJDGKJ2B731V46DMH3T1VHC",
+       "name": "ShaoChieh",
+       "country": "TW"
+      }
+     ]
+    },
+    {
+     "id": "01KHPREZCQZ8Z8DHDM6AR3ZT5N",
+     "name": "VexX Gaming",
+     "points": 60,
+     "officialRank": 17,
+     "korean": false,
+     "region": "americas",
+     "kills": 31,
+     "live": false,
+     "qualified": false,
+     "players": [
+      {
+       "id": "01J65B7K77R1EYJEWB10E77W8D",
+       "name": "Enemy",
+       "country": "US"
+      },
+      {
+       "id": "01J7TX1WDAMTYENTNEPKNCB1K6",
+       "name": "Crook",
+       "country": "US"
+      },
+      {
+       "id": "01JJXXPR4QXM1KQ3BGSE04HGPW",
+       "name": "Misterosey",
+       "country": "US"
+      }
+     ]
+    },
+    {
+     "id": "01KHPREVAQ5N265YD102VN8SK9",
+     "name": "GaiminGladiators",
+     "points": 58,
+     "officialRank": 18,
+     "korean": false,
+     "region": "europe-middle-east-and-africa",
+     "kills": 33,
+     "live": false,
+     "qualified": false,
+     "players": [
+      {
+       "id": "01J65B60JXP9ZMAVF72NV6VYW4",
+       "name": "Zaine",
        "country": "GB"
       },
       {
-       "id": "01J69ST7W30EKTM4S5M2MYVVP0",
-       "name": "kaishihaa",
+       "id": "01J65B709W29TSPKAK90Y77ESD",
+       "name": "Blasts ",
        "country": "GB"
       },
       {
-       "id": "01J69STS6B1X7SFHY78DWKZ33F",
-       "name": "RemixPowers",
-       "country": "GB"
+       "id": "01J65B713FHA93NACY7FRXVY4H",
+       "name": "Lufka",
+       "country": "PL"
+      }
+     ]
+    },
+    {
+     "id": "01KHPREVRNJA90XSYQQ4NBG32E",
+     "name": "Wolves Esports",
+     "points": 56,
+     "officialRank": 19,
+     "korean": false,
+     "region": "asia-pacific-south",
+     "kills": 29,
+     "live": false,
+     "qualified": false,
+     "players": [
+      {
+       "id": "01J65B7R1K9SSZ8N8RNVSW10E8",
+       "name": "QQ",
+       "country": "HK"
+      },
+      {
+       "id": "01J7TX28WRSS3T1XN0E8235WBB",
+       "name": "Floating",
+       "country": "US"
+      },
+      {
+       "id": "01JQAM99KPFVMZZ78JT4VA6Q72",
+       "name": "CrazyCong",
+       "country": "HK"
+      }
+     ]
+    },
+    {
+     "id": "01KHPREYY3VBJ72QFHDHTGFV3K",
+     "name": "KINOTROPE gaming",
+     "points": 53,
+     "officialRank": 20,
+     "korean": false,
+     "region": "asia-pacific-north",
+     "kills": 25,
+     "live": false,
+     "qualified": false,
+     "players": [
+      {
+       "id": "01J65B8CZZYY4ZA0N06BQ8WBXX",
+       "name": "saku",
+       "country": "JP"
+      },
+      {
+       "id": "01J65B8QSJMT51Z0Y1GQBS60MN",
+       "name": "YukaPEROdator",
+       "country": "JP"
+      },
+      {
+       "id": "01JM2D3B5XC6R8VJE4WHHMEG9S",
+       "name": "Kan0n",
+       "country": "JP"
       }
      ]
     },
@@ -1028,7 +1448,7 @@
      "id": "01KHPREXF10RF8GQKJJ6N16YHS",
      "name": "Geekay Esports",
      "points": 51,
-     "officialRank": 6,
+     "officialRank": 21,
      "korean": false,
      "region": "americas",
      "kills": 29,
@@ -1053,10 +1473,38 @@
      ]
     },
     {
+     "id": "01KHPREXKPB1ZHBC2S31AN0P7E",
+     "name": "RIDDLEORDER ZERO",
+     "points": 49,
+     "officialRank": 22,
+     "korean": true,
+     "region": "asia-pacific-north",
+     "kills": 18,
+     "live": false,
+     "qualified": false,
+     "players": [
+      {
+       "id": "01J65B8CK853R7AE0C7FANSPZ0",
+       "name": "Meltstera",
+       "country": "JP"
+      },
+      {
+       "id": "01JK2XJ8HJHRMNBTCJTM5E589T",
+       "name": "egoist",
+       "country": "KR"
+      },
+      {
+       "id": "01JKZVQ3NFDJXSJZW22PRVJKAK",
+       "name": "Acca",
+       "country": "JP"
+      }
+     ]
+    },
+    {
      "id": "01KHPREWRGXCYNBGJVNSGD6ZBY",
      "name": "Team Vision",
      "points": 48,
-     "officialRank": 7,
+     "officialRank": 23,
      "korean": false,
      "region": "americas",
      "kills": 26,
@@ -1081,94 +1529,10 @@
      ]
     },
     {
-     "id": "01KHPREXGF2G62Y6H5QG87ZYEE",
-     "name": "Team Falcons",
-     "points": 48,
-     "officialRank": 8,
-     "korean": false,
-     "region": "americas",
-     "kills": 30,
-     "live": false,
-     "qualified": false,
-     "players": [
-      {
-       "id": "01J65B6K9EJ7BN6NQRKRQ3FZKG",
-       "name": "Gild",
-       "country": "US"
-      },
-      {
-       "id": "01J65B6KP9DJ9VQH6E4EDBVXWR",
-       "name": "Wxltzy",
-       "country": "US"
-      },
-      {
-       "id": "01J65B7NMKHGG0EFAX7JGG2HZY",
-       "name": "ImperialHal",
-       "country": "US"
-      }
-     ]
-    },
-    {
-     "id": "01KHPREXADNBT3YBAPQC8K39C8",
-     "name": "NRG",
-     "points": 45,
-     "officialRank": 9,
-     "korean": false,
-     "region": "americas",
-     "kills": 27,
-     "live": false,
-     "qualified": false,
-     "players": [
-      {
-       "id": "01J65B79J9D3V006MVBGN77X0Y",
-       "name": "Sweet",
-       "country": "US"
-      },
-      {
-       "id": "01J65B7AC47B2MFX5T9Y2A32ZB",
-       "name": "slayr",
-       "country": "US"
-      },
-      {
-       "id": "01JMF5HB9TNN1Q3SKBNQMVB8X8",
-       "name": "sacred",
-       "country": "US"
-      }
-     ]
-    },
-    {
-     "id": "01KME2AGVDK6XFG76BXCJ3QEPW",
-     "name": "WhiteGrimReaper",
-     "points": 42,
-     "officialRank": 10,
-     "korean": false,
-     "region": "asia-pacific-north",
-     "kills": 23,
-     "live": false,
-     "qualified": false,
-     "players": [
-      {
-       "id": "01J65B6ESJ7EZ40K6NB2NBM2YY",
-       "name": "Lykq8don",
-       "country": "JP"
-      },
-      {
-       "id": "01JKZVR7101PWDP9388YTZR0GA",
-       "name": "juxo",
-       "country": "JP"
-      },
-      {
-       "id": "01JMEX2436Z3Q2J860P58Z07H5",
-       "name": "AQBAJAPAN",
-       "country": "JP"
-      }
-     ]
-    },
-    {
      "id": "01KKX6TB0GXSA1T51XH4J90BCB",
      "name": "Forged Wolves",
      "points": 42,
-     "officialRank": 11,
+     "officialRank": 24,
      "korean": false,
      "region": "americas",
      "kills": 19,
@@ -1193,38 +1557,10 @@
      ]
     },
     {
-     "id": "01KHPREWJ40HYNJSHV1D5GWDGY",
-     "name": "World Wide",
-     "points": 41,
-     "officialRank": 12,
-     "korean": false,
-     "region": "americas",
-     "kills": 20,
-     "live": false,
-     "qualified": false,
-     "players": [
-      {
-       "id": "01J65B6CREZS38J19M1WCEE9VJ",
-       "name": "Vaxlon",
-       "country": "US"
-      },
-      {
-       "id": "01J65B6JFEH898KTRFF9TCZNK3",
-       "name": "Emtee ",
-       "country": "US"
-      },
-      {
-       "id": "01JQ4Z59EYYN1B26S47513RSZZ",
-       "name": "Nait",
-       "country": "PL"
-      }
-     ]
-    },
-    {
      "id": "01KHPREYZJPA7ZQ3AMR94XEB6J",
      "name": "VK GAMING",
      "points": 41,
-     "officialRank": 13,
+     "officialRank": 25,
      "korean": false,
      "region": "asia-pacific-south",
      "kills": 17,
@@ -1252,7 +1588,7 @@
      "id": "01KHPREZ17WVRXCCZD256CRP5C",
      "name": "TEAM ECLIPSE",
      "points": 39,
-     "officialRank": 14,
+     "officialRank": 26,
      "korean": false,
      "region": "europe-middle-east-and-africa",
      "kills": 13,
@@ -1277,58 +1613,30 @@
      ]
     },
     {
-     "id": "01KHPREX30SHMDHM5YQ3ENN0SQ",
-     "name": "REJECT",
-     "points": 38,
-     "officialRank": 15,
+     "id": "01KHPREZ4208EN3K1VJB0G8S6N",
+     "name": "7VEN",
+     "points": 35,
+     "officialRank": 27,
      "korean": false,
-     "region": "asia-pacific-north",
+     "region": "asia-pacific-south",
      "kills": 19,
      "live": false,
      "qualified": false,
      "players": [
       {
-       "id": "01J65B673069XJF3TC9A699HK2",
-       "name": "4rufa",
-       "country": "JP"
+       "id": "01J80KMC74P0MNTEVZP6J7HW8E",
+       "name": "W-L-A2",
+       "country": "SG"
       },
       {
-       "id": "01J7TX24A1TY5QA73WGJ7DGE0X",
-       "name": "Euriece",
-       "country": "JP"
+       "id": "01JKBZPA2X3K5HJBNGM8H5BBJW",
+       "name": "Lymo",
+       "country": "AU"
       },
       {
-       "id": "01JN3ZPWPPQVYEMAXDW8YF4ZZC",
-       "name": "Axis",
-       "country": "JP"
-      }
-     ]
-    },
-    {
-     "id": "01KHPREYY3VBJ72QFHDHTGFV3K",
-     "name": "KINOTROPE gaming",
-     "points": 36,
-     "officialRank": 16,
-     "korean": false,
-     "region": "asia-pacific-north",
-     "kills": 21,
-     "live": false,
-     "qualified": false,
-     "players": [
-      {
-       "id": "01J65B8CZZYY4ZA0N06BQ8WBXX",
-       "name": "saku",
-       "country": "JP"
-      },
-      {
-       "id": "01J65B8QSJMT51Z0Y1GQBS60MN",
-       "name": "YukaPEROdator",
-       "country": "JP"
-      },
-      {
-       "id": "01JM2D3B5XC6R8VJE4WHHMEG9S",
-       "name": "Kan0n",
-       "country": "JP"
+       "id": "01JKD7GWMY0MD44KPWKH4NZHWF",
+       "name": "Heckk",
+       "country": "NZ"
       }
      ]
     },
@@ -1336,7 +1644,7 @@
      "id": "01KHPREZ7K2SCE2CCYGXHMDQAZ",
      "name": "Team RRQ",
      "points": 35,
-     "officialRank": 17,
+     "officialRank": 28,
      "korean": false,
      "region": "asia-pacific-south",
      "kills": 19,
@@ -1361,94 +1669,10 @@
      ]
     },
     {
-     "id": "01KHPREYD403WZ7N0JWCAZ73TC",
-     "name": "Gen.G Citadel",
-     "points": 35,
-     "officialRank": 18,
-     "korean": false,
-     "region": "asia-pacific-south",
-     "kills": 20,
-     "live": false,
-     "qualified": false,
-     "players": [
-      {
-       "id": "01J65B7E0BP0J3AMAXD0SVPJKH",
-       "name": "Z1CKKY",
-       "country": "TH"
-      },
-      {
-       "id": "01J65B7F6PE7V0T40S65T5ZPV4",
-       "name": "DEXTER",
-       "country": "TH"
-      },
-      {
-       "id": "01JKGNYX0H7XXMAQR5SG72J0BD",
-       "name": "ASIAZXD",
-       "country": "TH"
-      }
-     ]
-    },
-    {
-     "id": "01KHPREWCZGM90NRYMFFN8RWQR",
-     "name": "Relove DCG",
-     "points": 34,
-     "officialRank": 19,
-     "korean": false,
-     "region": "asia-pacific-south",
-     "kills": 19,
-     "live": false,
-     "qualified": false,
-     "players": [
-      {
-       "id": "01JK6GPX1GZF8Z95THET5XTCX6",
-       "name": "Lu1SaN",
-       "country": "TW"
-      },
-      {
-       "id": "01JKJCT1AQ8W9R6FXXDHXPYRVY",
-       "name": "Roieee",
-       "country": "TW"
-      },
-      {
-       "id": "01JKJDGKJ2B731V46DMH3T1VHC",
-       "name": "ShaoChieh",
-       "country": "TW"
-      }
-     ]
-    },
-    {
-     "id": "01KHPREWNWEZSQCQDGZVAF5CCW",
-     "name": "Team Liquid",
-     "points": 32,
-     "officialRank": 20,
-     "korean": false,
-     "region": "americas",
-     "kills": 19,
-     "live": false,
-     "qualified": false,
-     "players": [
-      {
-       "id": "01J65B7YX133EJCY2WKCWG472F",
-       "name": "Zer0",
-       "country": "US"
-      },
-      {
-       "id": "01J65B7ZA31T3A5Z36XKRMFVY1",
-       "name": "Sikezz",
-       "country": "US"
-      },
-      {
-       "id": "01J7TX2242N0MYENGTV5WAN6XT",
-       "name": "PanicApex",
-       "country": "US"
-      }
-     ]
-    },
-    {
      "id": "01KHPREYVAK3KCYDMH8PMXA0GZ",
      "name": "NOEZ FOXX",
      "points": 32,
-     "officialRank": 21,
+     "officialRank": 29,
      "korean": false,
      "region": "asia-pacific-north",
      "kills": 19,
@@ -1473,66 +1697,10 @@
      ]
     },
     {
-     "id": "01KHPREVRNJA90XSYQQ4NBG32E",
-     "name": "Wolves Esports",
-     "points": 31,
-     "officialRank": 22,
-     "korean": false,
-     "region": "asia-pacific-south",
-     "kills": 18,
-     "live": false,
-     "qualified": false,
-     "players": [
-      {
-       "id": "01J65B7R1K9SSZ8N8RNVSW10E8",
-       "name": "QQ",
-       "country": "HK"
-      },
-      {
-       "id": "01J7TX28WRSS3T1XN0E8235WBB",
-       "name": "Floating",
-       "country": "US"
-      },
-      {
-       "id": "01JQAM99KPFVMZZ78JT4VA6Q72",
-       "name": "CrazyCong",
-       "country": "HK"
-      }
-     ]
-    },
-    {
-     "id": "01KHPREWVFQ8KJBCB3AY6Q42T2",
-     "name": "ShopifyRebellion",
-     "points": 30,
-     "officialRank": 23,
-     "korean": false,
-     "region": "americas",
-     "kills": 13,
-     "live": false,
-     "qualified": false,
-     "players": [
-      {
-       "id": "01J65B63TYVWBB4ZVR2S5QKBT3",
-       "name": "zap",
-       "country": "US"
-      },
-      {
-       "id": "01J65B65VG17SKBAFP2A6HA0W9",
-       "name": "Xynew",
-       "country": "US"
-      },
-      {
-       "id": "01J65B6XT7H66CYSQYD66JC1W9",
-       "name": "sauceror",
-       "country": "US"
-      }
-     ]
-    },
-    {
      "id": "01KHPREXSN4ECWZQ35M6W1YP5S",
      "name": "KINOTROPE CLUB",
      "points": 30,
-     "officialRank": 24,
+     "officialRank": 30,
      "korean": false,
      "region": "asia-pacific-north",
      "kills": 11,
@@ -1560,7 +1728,7 @@
      "id": "01KHPREXDFYWX2GJ7Z1VNARJDV",
      "name": "Sentinels",
      "points": 29,
-     "officialRank": 25,
+     "officialRank": 31,
      "korean": false,
      "region": "americas",
      "kills": 12,
@@ -1585,38 +1753,10 @@
      ]
     },
     {
-     "id": "01KHPREVAQ5N265YD102VN8SK9",
-     "name": "GaiminGladiators",
-     "points": 28,
-     "officialRank": 26,
-     "korean": false,
-     "region": "europe-middle-east-and-africa",
-     "kills": 16,
-     "live": false,
-     "qualified": false,
-     "players": [
-      {
-       "id": "01J65B60JXP9ZMAVF72NV6VYW4",
-       "name": "Zaine",
-       "country": "GB"
-      },
-      {
-       "id": "01J65B709W29TSPKAK90Y77ESD",
-       "name": "Blasts ",
-       "country": "GB"
-      },
-      {
-       "id": "01J65B713FHA93NACY7FRXVY4H",
-       "name": "Lufka",
-       "country": "PL"
-      }
-     ]
-    },
-    {
      "id": "01KHPREWX8J5GD5QTZ62E4VRVD",
      "name": "Crazy Thieves",
      "points": 28,
-     "officialRank": 27,
+     "officialRank": 32,
      "korean": false,
      "region": "americas",
      "kills": 17,
@@ -1641,38 +1781,10 @@
      ]
     },
     {
-     "id": "01KHPREZ4208EN3K1VJB0G8S6N",
-     "name": "7VEN",
-     "points": 26,
-     "officialRank": 28,
-     "korean": false,
-     "region": "asia-pacific-south",
-     "kills": 14,
-     "live": false,
-     "qualified": false,
-     "players": [
-      {
-       "id": "01J80KMC74P0MNTEVZP6J7HW8E",
-       "name": "W-L-A2",
-       "country": "SG"
-      },
-      {
-       "id": "01JKBZPA2X3K5HJBNGM8H5BBJW",
-       "name": "Lymo",
-       "country": "AU"
-      },
-      {
-       "id": "01JKD7GWMY0MD44KPWKH4NZHWF",
-       "name": "Heckk",
-       "country": "NZ"
-      }
-     ]
-    },
-    {
      "id": "01KHPREVFR66EX54TN3WXASC3F",
      "name": "TitanEsportsClub",
      "points": 26,
-     "officialRank": 29,
+     "officialRank": 33,
      "korean": false,
      "region": "asia-pacific-south",
      "kills": 15,
@@ -1697,38 +1809,10 @@
      ]
     },
     {
-     "id": "01KHPREX79D112W371YQ819V49",
-     "name": "AG GLOBAL",
-     "points": 24,
-     "officialRank": 30,
-     "korean": false,
-     "region": "americas",
-     "kills": 16,
-     "live": false,
-     "qualified": false,
-     "players": [
-      {
-       "id": "01J65B6MWY4T8KBS3HHMSAV391",
-       "name": "YanYa",
-       "country": "MX"
-      },
-      {
-       "id": "01J65B6NAJSEJ54KGBFTXZYBXY",
-       "name": "Neazul",
-       "country": "MX"
-      },
-      {
-       "id": "01J65B6NQBD3PH8E9NSFRFA4S4",
-       "name": "jaguares1",
-       "country": "MX"
-      }
-     ]
-    },
-    {
      "id": "01KME84B9DFWTQWPTCTEXRHSD0",
      "name": "Team WaR",
      "points": 22,
-     "officialRank": 31,
+     "officialRank": 34,
      "korean": false,
      "region": "europe-middle-east-and-africa",
      "kills": 12,
@@ -1756,7 +1840,7 @@
      "id": "01KHPREW8YFA3WZDFTAH7WMVHA",
      "name": "PXX",
      "points": 20,
-     "officialRank": 32,
+     "officialRank": 35,
      "korean": false,
      "region": "asia-pacific-south",
      "kills": 6,
@@ -1781,38 +1865,10 @@
      ]
     },
     {
-     "id": "01KHPREXKPB1ZHBC2S31AN0P7E",
-     "name": "RIDDLEORDER ZERO",
-     "points": 19,
-     "officialRank": 33,
-     "korean": true,
-     "region": "asia-pacific-north",
-     "kills": 5,
-     "live": false,
-     "qualified": false,
-     "players": [
-      {
-       "id": "01J65B8CK853R7AE0C7FANSPZ0",
-       "name": "Meltstera",
-       "country": "JP"
-      },
-      {
-       "id": "01JK2XJ8HJHRMNBTCJTM5E589T",
-       "name": "egoist",
-       "country": "KR"
-      },
-      {
-       "id": "01JKZVQ3NFDJXSJZW22PRVJKAK",
-       "name": "Acca",
-       "country": "JP"
-      }
-     ]
-    },
-    {
      "id": "01KHPREV3DXVRZDG7Z61J7XXG2",
      "name": "ENTER FORCE.36",
      "points": 19,
-     "officialRank": 34,
+     "officialRank": 36,
      "korean": true,
      "region": "asia-pacific-north",
      "kills": 10,
@@ -1837,38 +1893,10 @@
      ]
     },
     {
-     "id": "01KHPRETW5SA96GN6HXY5N6V2F",
-     "name": "NinjasinPyjamas",
-     "points": 17,
-     "officialRank": 35,
-     "korean": false,
-     "region": "americas",
-     "kills": 14,
-     "live": false,
-     "qualified": false,
-     "players": [
-      {
-       "id": "01J65B733H606FKY6AEMAPAJ7P",
-       "name": "Vein",
-       "country": "US"
-      },
-      {
-       "id": "01J69SWXKBEHB0M4PZMQRE3P7E",
-       "name": "Kurev",
-       "country": "AR"
-      },
-      {
-       "id": "01JK57CFP22QV3BSK1EH5V5PD0",
-       "name": "cole",
-       "country": "US"
-      }
-     ]
-    },
-    {
      "id": "01KME2AHGDBRH2T7FSQNCDPY1M",
      "name": "ZETA DIVISION",
      "points": 16,
-     "officialRank": 36,
+     "officialRank": 37,
      "korean": false,
      "region": "asia-pacific-north",
      "kills": 12,
@@ -1889,34 +1917,6 @@
        "id": "01JN1J3T3FBT0H8MZFNG4BRPB9",
        "name": "mike",
        "country": "JP"
-      }
-     ]
-    },
-    {
-     "id": "01KHPREZCQZ8Z8DHDM6AR3ZT5N",
-     "name": "VexX Gaming",
-     "points": 16,
-     "officialRank": 37,
-     "korean": false,
-     "region": "americas",
-     "kills": 8,
-     "live": false,
-     "qualified": false,
-     "players": [
-      {
-       "id": "01J65B7K77R1EYJEWB10E77W8D",
-       "name": "Enemy",
-       "country": "US"
-      },
-      {
-       "id": "01J7TX1WDAMTYENTNEPKNCB1K6",
-       "name": "Crook",
-       "country": "US"
-      },
-      {
-       "id": "01JJXXPR4QXM1KQ3BGSE04HGPW",
-       "name": "Misterosey",
-       "country": "US"
       }
      ]
     },
@@ -2007,12 +2007,12 @@
    ],
    "slots": null,
    "source": "https://algs.ea.com/en/year-6/split-2-playoffs/standings",
-   "asOf": "2026-10-30T02:33:42.671Z",
-   "checked": "2026-10-30T02:33:42.671Z",
+   "asOf": "2026-10-30T08:57:10.051Z",
+   "checked": "2026-10-30T08:57:10.051Z",
    "eventId": "01KTHWVM9YD9XBN3GFMDJPRDSF",
    "phaseId": "01KTHWXK2DQZSMXZ0Z3523V0RS",
    "apiSource": "https://prod-api.algstools.com/v1/stats/phases/01KTHWXK2DQZSMXZ0Z3523V0RS/standings",
-   "text": "1. DINOS: 74\n2. Alliance: 66\n3. Aurora: 63\n4. UNLIMIT: 58\n5. ForFun Esports: 55\n6. Geekay Esports: 51\n7. Team Vision: 48\n8. Team Falcons: 48\n9. NRG: 45\n10. WhiteGrimReaper: 42\n11. Forged Wolves: 42\n12. World Wide: 41\n13. VK GAMING: 41\n14. TEAM ECLIPSE: 39\n15. REJECT: 38\n16. KINOTROPE gaming: 36\n17. Team RRQ: 35\n18. Gen.G Citadel: 35\n19. Relove DCG: 34\n20. Team Liquid: 32\n21. NOEZ FOXX: 32\n22. Wolves Esports: 31\n23. ShopifyRebellion: 30\n24. KINOTROPE CLUB: 30\n25. Sentinels: 29\n26. GaiminGladiators: 28\n27. Crazy Thieves: 28\n28. 7VEN: 26\n29. TitanEsportsClub: 26\n30. AG GLOBAL: 24\n31. Team WaR: 22\n32. PXX: 20\n33. RIDDLEORDER ZERO: 19\n34. ENTER FORCE.36: 19\n35. NinjasinPyjamas: 17\n36. ZETA DIVISION: 16\n37. VexX Gaming: 16\n38. LawsonTicketXone: 14\n39. Nice Guys: 10\n40. PVISION: 4",
+   "text": "1. Team Liquid: 96\n2. ShopifyRebellion: 96\n3. UNLIMIT: 94\n4. Aurora: 91\n5. WhiteGrimReaper: 82\n6. Team Falcons: 79\n7. DINOS: 74\n8. NinjasinPyjamas: 73\n9. REJECT: 72\n10. ForFun Esports: 71\n11. Gen.G Citadel: 70\n12. NRG: 67\n13. Alliance: 66\n14. World Wide: 66\n15. AG GLOBAL: 61\n16. Relove DCG: 61\n17. VexX Gaming: 60\n18. GaiminGladiators: 58\n19. Wolves Esports: 56\n20. KINOTROPE gaming: 53\n21. Geekay Esports: 51\n22. RIDDLEORDER ZERO: 49\n23. Team Vision: 48\n24. Forged Wolves: 42\n25. VK GAMING: 41\n26. TEAM ECLIPSE: 39\n27. 7VEN: 35\n28. Team RRQ: 35\n29. NOEZ FOXX: 32\n30. KINOTROPE CLUB: 30\n31. Sentinels: 29\n32. Crazy Thieves: 28\n33. TitanEsportsClub: 26\n34. Team WaR: 22\n35. PXX: 20\n36. ENTER FORCE.36: 19\n37. ZETA DIVISION: 16\n38. LawsonTicketXone: 14\n39. Nice Guys: 10\n40. PVISION: 4",
    "note": "algs.ea.com 공식 사이트 데이터 · 확인 시각은 수집 시각이며 경기 중임을 뜻하지 않습니다.",
    "ruleNote": "슬롯은 공식 phase qualificationThreshold입니다. 해당 단계의 통과 기준이며 시즌 전체 진출 경로와 다를 수 있습니다."
   },
@@ -2919,8 +2919,8 @@
    ],
    "slots": 14,
    "source": "https://algs.ea.com/en/year-6/split-2-pro-league-americas/standings",
-   "asOf": "2026-10-30T02:33:42.713Z",
-   "checked": "2026-10-30T02:33:42.713Z",
+   "asOf": "2026-10-30T08:57:10.099Z",
+   "checked": "2026-10-30T08:57:10.099Z",
    "eventId": "01KPPFPQYTBGN1PYMGQ3CDNZHM",
    "phaseId": "01KTHSBC2EQVRGK0NY2ED0KC50",
    "apiSource": "https://prod-api.algstools.com/v1/stats/phases/01KTHSBC2EQVRGK0NY2ED0KC50/standings",
@@ -3811,8 +3811,8 @@
    ],
    "slots": 6,
    "source": "https://algs.ea.com/en/year-6/split-2-pro-league-emea/standings",
-   "asOf": "2026-10-30T02:33:42.796Z",
-   "checked": "2026-10-30T02:33:42.796Z",
+   "asOf": "2026-10-30T08:57:10.175Z",
+   "checked": "2026-10-30T08:57:10.175Z",
    "eventId": "01KTHV6YD6XFMQ1W7CZXBN9H0P",
    "phaseId": "01KTHV6YDGK0Q6N9PJ7SX1MQSK",
    "apiSource": "https://prod-api.algstools.com/v1/stats/phases/01KTHV6YDGK0Q6N9PJ7SX1MQSK/standings",
@@ -4718,8 +4718,8 @@
    ],
    "slots": 7,
    "source": "https://algs.ea.com/en/year-6/split-2-pro-league-apac-south/standings",
-   "asOf": "2026-10-30T02:33:42.864Z",
-   "checked": "2026-10-30T02:33:42.864Z",
+   "asOf": "2026-10-30T08:57:10.263Z",
+   "checked": "2026-10-30T08:57:10.263Z",
    "eventId": "01KTHV7V10NX9HB8S1WM7QT6Q9",
    "phaseId": "01KTHV7V12PY3NQPZDG1PEYNM7",
    "apiSource": "https://prod-api.algstools.com/v1/stats/phases/01KTHV7V12PY3NQPZDG1PEYNM7/standings",
@@ -4734,8 +4734,8 @@
   "title": "Year 6 챔피언십 포인트",
   "source": "https://algs.ea.com/en/championship-points",
   "apiSource": "https://prod-api.algstools.com/v1/seasons/01KEAJYDXP9CBK44PPW7XWDNB3/standings/teams?minAmountOfMatches=12&eventIds=01KTHV6YD6XFMQ1W7CZXBN9H0P%2C01KTHV7NFZ7BX8VND276ZS2CSA%2C01KTHV7V10NX9HB8S1WM7QT6Q9%2C01KPPFPQYTBGN1PYMGQ3CDNZHM",
-  "asOf": "2026-10-30T02:33:42.935Z",
-  "checked": "2026-10-30T02:33:42.935Z",
+  "asOf": "2026-10-30T08:57:10.338Z",
+  "checked": "2026-10-30T08:57:10.338Z",
   "slots": 32,
   "teams": [
    {
