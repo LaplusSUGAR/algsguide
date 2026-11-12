@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-12T01:33:35.521Z",
+ "generatedAt": "2026-11-12T08:48:31.538Z",
  "regions": {
   "APAC North": {
    "kind": "playoffs",
@@ -870,8 +870,8 @@
    ],
    "slots": 9,
    "source": "https://algs.ea.com/en/year-6/split-2-pro-league-apac-north/standings",
-   "asOf": "2026-11-12T01:33:35.842Z",
-   "checked": "2026-11-12T01:33:35.842Z",
+   "asOf": "2026-11-12T08:48:31.782Z",
+   "checked": "2026-11-12T08:48:31.782Z",
    "eventId": "01KTHV7NFZ7BX8VND276ZS2CSA",
    "phaseId": "01KTHV7NG27AWPPRVE0TN52CA1",
    "apiSource": "https://prod-api.algstools.com/v1/stats/phases/01KTHV7NG27AWPPRVE0TN52CA1/standings",
@@ -2012,8 +2012,8 @@
    ],
    "slots": null,
    "source": "https://algs.ea.com/en/year-6/split-2-playoffs/standings",
-   "asOf": "2026-11-12T01:33:35.930Z",
-   "checked": "2026-11-12T01:33:35.930Z",
+   "asOf": "2026-11-12T08:48:31.839Z",
+   "checked": "2026-11-12T08:48:31.839Z",
    "eventId": "01KTHWVM9YD9XBN3GFMDJPRDSF",
    "phaseId": "01KTHWXK2DQZSMXZ0Z3523V0RS",
    "apiSource": "https://prod-api.algstools.com/v1/stats/phases/01KTHWXK2DQZSMXZ0Z3523V0RS/standings",
@@ -2924,8 +2924,8 @@
    ],
    "slots": 14,
    "source": "https://algs.ea.com/en/year-6/split-2-pro-league-americas/standings",
-   "asOf": "2026-11-12T01:33:36.002Z",
-   "checked": "2026-11-12T01:33:36.002Z",
+   "asOf": "2026-11-12T08:48:31.886Z",
+   "checked": "2026-11-12T08:48:31.886Z",
    "eventId": "01KPPFPQYTBGN1PYMGQ3CDNZHM",
    "phaseId": "01KTHSBC2EQVRGK0NY2ED0KC50",
    "apiSource": "https://prod-api.algstools.com/v1/stats/phases/01KTHSBC2EQVRGK0NY2ED0KC50/standings",
@@ -3816,8 +3816,8 @@
    ],
    "slots": 6,
    "source": "https://algs.ea.com/en/year-6/split-2-pro-league-emea/standings",
-   "asOf": "2026-11-12T01:33:36.081Z",
-   "checked": "2026-11-12T01:33:36.081Z",
+   "asOf": "2026-11-12T08:48:31.940Z",
+   "checked": "2026-11-12T08:48:31.940Z",
    "eventId": "01KTHV6YD6XFMQ1W7CZXBN9H0P",
    "phaseId": "01KTHV6YDGK0Q6N9PJ7SX1MQSK",
    "apiSource": "https://prod-api.algstools.com/v1/stats/phases/01KTHV6YDGK0Q6N9PJ7SX1MQSK/standings",
@@ -4723,8 +4723,8 @@
    ],
    "slots": 7,
    "source": "https://algs.ea.com/en/year-6/split-2-pro-league-apac-south/standings",
-   "asOf": "2026-11-12T01:33:36.161Z",
-   "checked": "2026-11-12T01:33:36.161Z",
+   "asOf": "2026-11-12T08:48:32.004Z",
+   "checked": "2026-11-12T08:48:32.004Z",
    "eventId": "01KTHV7V10NX9HB8S1WM7QT6Q9",
    "phaseId": "01KTHV7V12PY3NQPZDG1PEYNM7",
    "apiSource": "https://prod-api.algstools.com/v1/stats/phases/01KTHV7V12PY3NQPZDG1PEYNM7/standings",
@@ -4739,8 +4739,8 @@
   "title": "Year 6 챔피언십 포인트",
   "source": "https://algs.ea.com/en/championship-points",
   "apiSource": "https://prod-api.algstools.com/v1/seasons/01KEAJYDXP9CBK44PPW7XWDNB3/standings/teams?minAmountOfMatches=12&eventIds=01KTHV6YD6XFMQ1W7CZXBN9H0P%2C01KTHV7NFZ7BX8VND276ZS2CSA%2C01KTHV7V10NX9HB8S1WM7QT6Q9%2C01KPPFPQYTBGN1PYMGQ3CDNZHM",
-  "asOf": "2026-11-12T01:33:36.239Z",
-  "checked": "2026-11-12T01:33:36.239Z",
+  "asOf": "2026-11-12T08:48:32.061Z",
+  "checked": "2026-11-12T08:48:32.061Z",
   "slots": 32,
   "teams": [
    {
@@ -5949,7 +5949,7 @@
    },
    {
     "id": "01KHPREX931TTBJDXH1AN6D121",
-    "name": "JD GAMING",
+    "name": "FFS",
     "points": 892,
     "officialRank": 44,
     "korean": false,
@@ -6952,10 +6952,38 @@
     ]
    },
    {
+    "id": "01KHPREX1EC5Z0DQ4472BPDS5H",
+    "name": "Buckle Boys",
+    "points": 98,
+    "officialRank": 82,
+    "korean": false,
+    "region": "americas",
+    "kills": null,
+    "live": false,
+    "qualified": false,
+    "players": [
+     {
+      "id": "01J7TX228K2G48K9Y5V4C3YH26",
+      "name": "CruelBuckle",
+      "country": null
+     },
+     {
+      "id": "01J7TX1YMQ7ZA2BNTS6JX48WP0",
+      "name": "ssirsay",
+      "country": null
+     },
+     {
+      "id": "01J7TX22JY1JGDP75ZDA29FXKP",
+      "name": "J",
+      "country": null
+     }
+    ]
+   },
+   {
     "id": "01KHPREW26WW7WFZ1H5YMJXWN2",
     "name": "Ben",
     "points": 97,
-    "officialRank": 82,
+    "officialRank": 83,
     "korean": false,
     "region": "europe-middle-east-and-africa",
     "kills": null,
@@ -6983,7 +7011,7 @@
     "id": "01KTSJN9DSBGY29GVSMXNNHT5D",
     "name": "RED Rams",
     "points": 96,
-    "officialRank": 83,
+    "officialRank": 84,
     "korean": false,
     "region": "asia-pacific-north",
     "kills": null,
@@ -7011,7 +7039,7 @@
     "id": "01KTSJN9JEEE9MTYJWA3P7TPHJ",
     "name": "DN",
     "points": 96,
-    "officialRank": 84,
+    "officialRank": 85,
     "korean": false,
     "region": "europe-middle-east-and-africa",
     "kills": null,
@@ -7039,7 +7067,7 @@
     "id": "01KME2AHE4FYSB8AJPMJVY4REK",
     "name": "UBI CILEMBU",
     "points": 93,
-    "officialRank": 85,
+    "officialRank": 86,
     "korean": false,
     "region": "asia-pacific-south",
     "kills": null,
@@ -7067,7 +7095,7 @@
     "id": "01KHPREVTPFF65ZFGRMQZF97YW",
     "name": "MAMMA MIA",
     "points": 92,
-    "officialRank": 86,
+    "officialRank": 87,
     "korean": false,
     "region": "europe-middle-east-and-africa",
     "kills": null,
@@ -7095,7 +7123,7 @@
     "id": "01KTSJNA350MXM4N2G21X0FQES",
     "name": "ETiAS",
     "points": 90,
-    "officialRank": 87,
+    "officialRank": 88,
     "korean": false,
     "region": "asia-pacific-north",
     "kills": null,
@@ -7123,7 +7151,7 @@
     "id": "01KHPREXZXP4CYR54DGSY5VW4Q",
     "name": "Meteor",
     "points": 88,
-    "officialRank": 88,
+    "officialRank": 89,
     "korean": false,
     "region": "asia-pacific-north",
     "kills": null,
@@ -7146,7 +7174,7 @@
     "id": "01KME2AHCFT4C53BNA6E2Z9FD6",
     "name": "ARAM",
     "points": 80,
-    "officialRank": 89,
+    "officialRank": 90,
     "korean": false,
     "region": "asia-pacific-south",
     "kills": null,
@@ -7169,7 +7197,7 @@
     "id": "01KHPREV02KZK07880PESMKJ3V",
     "name": "REALIZE",
     "points": 79,
-    "officialRank": 90,
+    "officialRank": 91,
     "korean": false,
     "region": "asia-pacific-north",
     "kills": null,
@@ -7197,7 +7225,7 @@
     "id": "01KHPREZ2JRAK2RGDG62J3AEEW",
     "name": "Pixel Lumina",
     "points": 77,
-    "officialRank": 91,
+    "officialRank": 92,
     "korean": false,
     "region": "europe-middle-east-and-africa",
     "kills": null,
@@ -7225,7 +7253,7 @@
     "id": "01KME2AH4NG8W8G65J2H899XP4",
     "name": "DreamFire",
     "points": 76,
-    "officialRank": 92,
+    "officialRank": 93,
     "korean": false,
     "region": "asia-pacific-south",
     "kills": null,
@@ -7253,7 +7281,7 @@
     "id": "01KTSJN9J6TVW8D1T8J1BS4MS0",
     "name": "Majin",
     "points": 72,
-    "officialRank": 93,
+    "officialRank": 94,
     "korean": false,
     "region": "europe-middle-east-and-africa",
     "kills": null,
@@ -7281,7 +7309,7 @@
     "id": "01KHPREYST26ZBGYJRQ03Z93B6",
     "name": "STRONGFISH",
     "points": 66,
-    "officialRank": 94,
+    "officialRank": 95,
     "korean": false,
     "region": "americas",
     "kills": null,
@@ -7309,7 +7337,7 @@
     "id": "01KHPREY171TGAJBD2NNB8SVFY",
     "name": "ALTERNATIVE",
     "points": 66,
-    "officialRank": 95,
+    "officialRank": 96,
     "korean": false,
     "region": "asia-pacific-north",
     "kills": null,
@@ -7324,29 +7352,6 @@
      {
       "id": "01J69SWBFJYY4Y6GZ73384CSBQ",
       "name": "mo-mon",
-      "country": null
-     }
-    ]
-   },
-   {
-    "id": "01KHPREX1EC5Z0DQ4472BPDS5H",
-    "name": "Buckle Boys",
-    "points": 60,
-    "officialRank": 96,
-    "korean": false,
-    "region": "americas",
-    "kills": null,
-    "live": false,
-    "qualified": false,
-    "players": [
-     {
-      "id": "01J7TX228K2G48K9Y5V4C3YH26",
-      "name": "CruelBuckle",
-      "country": null
-     },
-     {
-      "id": "01J7TX22JY1JGDP75ZDA29FXKP",
-      "name": "J",
       "country": null
      }
     ]
@@ -7376,7 +7381,7 @@
    },
    {
     "id": "01KHPREWEXHYMAN629M2QBZTB8",
-    "name": "AELIX",
+    "name": "ASC3NT",
     "points": 46,
     "officialRank": 98,
     "korean": false,
@@ -7574,6 +7579,11 @@
     "live": false,
     "qualified": false,
     "players": [
+     {
+      "id": "01JP40DZYMKMMA6DKWQKWA3K3M",
+      "name": "vabyss9",
+      "country": null
+     },
      {
       "id": "01KJ87T014PK4KNCPXHKZ4TKRA",
       "name": "Atypicalship",
